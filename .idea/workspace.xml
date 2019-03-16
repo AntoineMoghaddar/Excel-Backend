@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="101d4379-f63c-47b5-8e91-491d1e132017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +35,9 @@
         <entry file="file://$PROJECT_DIR$/src/java/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor>
+                <caret column="2" selection-start-column="2" selection-end-column="2" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -57,6 +59,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/java/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/java/README.md" />
       </list>
     </option>
   </component>
@@ -108,7 +111,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552778998111" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552779119006" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552776107632</updated>
-      <workItem from="1552776110565" duration="1959000" />
+      <workItem from="1552776110565" duration="2296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1959000" />
+    <option name="totallyTimeSpent" value="2296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -194,7 +197,9 @@
     <entry file="file://$PROJECT_DIR$/src/java/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
