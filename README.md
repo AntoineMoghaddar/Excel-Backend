@@ -1,6 +1,6 @@
-#Project Excel README
+# Project Excel README
 
-##Introduction
+## Introduction
 
 This is the Project folder for Module 3 - B-Create we are taking part in.
 This project consists of 3 separate part which we will try to merge in the end.
@@ -11,7 +11,7 @@ The main purpose of this document is to define and summarize
 * Some data about how to use this data.
 
 
-##Problem statement 
+## Problem statement 
 The Enschede Marathon is a successful event, regarding the amount of people joining this event. The attendants are divided into three different categories: the athletes, the supporters and the general public. If we take the size, its’ inconveniences and the users’ wishes into account, the organisation of the Enschede Marathon poses the question how they can improve the user experience, with the use of technology, with the prospect of returning to this event. 
 Moreover, the organisation of the Enschede Marathon is evaluating its’ identity and might be changing it. 
 
@@ -19,15 +19,15 @@ Our main concept is to make an application that provides a service rather than t
 
 To create Enschede Marathon a new identity, our concept could offer possibilities. At the moment, Enschede Marathon has only a website, but they could replace the website with the application, depending on the reviews, execution and additional requirements.
 
-##Elaborated explanation about the application
+## Elaborated explanation about the application
 By developing an application, we create one solution to improve the user experiences of the three different user categories (the athletes, the supporters and the general public). The fundamental basis of the application will be a detailed map of Enschede, as well as the marathon tracks. 
 
 To further explain the concept, there has been made a distinction between the front end and the back end of the application. 
 
-###Front-end 
+### Front-end 
 The front-end is being defined as the part of the application, which the athletes, the supporters and general public can access. The following functionalities and features are accessible by the categories. 
 
-###Functionalities
+### Functionalities
 * Tracking runners 
 Brief description: supporters and interested attendants of the event, can search for the contestant number of the top runners and family members, friends, which pinpoints a dot on the map of Enschede Marathon tracks. The goal is to let them be informed about the progress of the runners and the 
 
@@ -51,7 +51,7 @@ Brief description: to be always aware of the activities organised during the day
 * Stories
 Brief description: to share the experiences of the event from different spots along the tracks, the users of the applications are able to upload pictures. These spots are tagged, so it’s easy to retrieve the location. This could lead to change in magnitude of the hotspots, because people will be more aware of the different activities. Next to this, it shows the atmosphere of the entire event. 
 
-###Features 
+### Features 
 Detailed map of the tracks
 Brief description: the map will be showing the 5 courses the runners have signed up for. The colour scheme will be the same as on the website. 
 
@@ -62,7 +62,7 @@ Brief description: in the application, a separate page will dedicated to the spo
 * Privacy statement
 Brief description: since last year, the government of the Netherlands has implemented the “AVG”, which is a law that enforces organizations to properly secure data. 
 
-###*Back-end*
+### *Back-end*
 The back-end of the application is being defined as the part of the application that only has been made available to the organization. If the organization wishes to update information about the program, the time schedule or any other particularity, they are being authorized to do so. One of the necessities to create the back-end of this system, is to be able to send notifications to people attending the event. 
 
 Envision the following scenario: during the event, the temperature has risen. There is an upcoming dangerous heat stroke and the organization and public facilities are running out of water. They would like send everyone a message containing the information of cancelling the event. 
@@ -70,16 +70,16 @@ Envision the following scenario: during the event, the temperature has risen. Th
 By creating the back-end system, the organization will be capable of sending this notification. 
 
 
-##Technical aspects 
-###Prototype 
+## Technical aspects 
+### Prototype 
 * The prototype will only contain GPS trackers, enabled on the SmartPhone of the users. 
 * The application can be downloaded in the Play Store; the prototype will be made for Android. 
 
-###Final product
+### Final product
 * To guarantee even more the privacy of the runners (and if necessary the supporters and the general public), bracelets with a NFC chip could be distributed. Our prototype uses the GPS sensors of the SmartPhone, of which the live location (coordinates) are being linked to the created profile. Moreover, this data is being sent to the server and can be retrieved by the supporters and the general public. The bracelets with an integrated NFC chip permite the athletes to be more invisible regarding the data saved and shared with the supporters and general public. The location still could still be retrieved, but only by contestant number. A profile of the person won’t be displayed. 
 * The application will also be available in the AppStore, thus made for Apple Operating Systems
 
-##Software 
+## Software 
 As clarified in the project proposal we have thought of building an mobile (android) application in combination with a backend system for modifying and seeing through data.
 This dashboard will be build using 
 
