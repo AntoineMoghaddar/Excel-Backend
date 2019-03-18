@@ -82,12 +82,12 @@ By creating the back-end system, the organization will be capable of sending thi
 ## Software 
 As clarified in the project proposal we have thought of building an mobile (android) application in combination with a backend system for modifying and seeing through data.
 This dashboard will be build using 
+* Intellij for the development of the backend
+* Android Studio for the development of the mobile application
+* Firebase for saving all data within which we will encrypt data using SHA512 & MD5
+* Git for code sharing
 
-
-
-Git Commands
-============
-
+## Git Commands
 
 ### Getting & Creating Projects
 
